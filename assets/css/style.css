@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.box{
+    height: 255px;
+    border: 2px solid;
+}
+
+
+.bmw .box{
+    background-image: url(../images/bmw/1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    /* background-color: red; */
+}
+
+.jaguar .box{
+    background-image: url(../images/jaguar/1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    /* background-color: blue; */
+}
+
+.mercedes .box{
+    background-image: url(../images/mercedes/1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    /* background-color: orange; */
+}
+.lamborghini .box{
+    background-image: url(../images/lamborghini/1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    /* background-color: black; */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
